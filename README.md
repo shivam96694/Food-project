@@ -1,2 +1,5 @@
-# Food-project
-This project is a Food Ordering Web Application built for a specific restaurant. It allows users to browse the menu, place food orders, and make online payments easily. The system is developed using JavaScript, Node.js, Express, HTML, CSS, and MySQL. It includes both User and Admin interfaces for managing orders and menus. 
+# 🍕 Food Order Web App
+A Node.js and Express-based food ordering system for a specific restaurant.
+Users can order food, make online payments, and track orders.
+Includes separate admin and user interfaces built with HTML, CSS, and JavaScript.
+Database: MySQL
