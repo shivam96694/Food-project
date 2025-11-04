@@ -1,0 +1,42 @@
+.maincontainer{
+    width:100%;
+    height: 100%;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Noto Serif", serif;
+}
+.box
+{
+width: 1400px;padding: 10;
+height: auto;
+background: #fd79a8;
+margin-left: 10px;
+
+border-radius: 10px;
+
+padding-bottom: 10px;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 7px;
+
+}
+.imagesize{
+    width:25px;
+    height:25px;
+}
+.titlediv{
+    display:flex;align-items:center;margin:8px 8px 4px 8px;
+}
+.divider{
+    height: 1px;width: 167px;border:1px solid #8e44ad;
+}
+.posterstyle
+{
+    width:50px;
+    height:50px;
+    border-radius: 10px;
+}

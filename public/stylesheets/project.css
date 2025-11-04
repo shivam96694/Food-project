@@ -1,0 +1,27 @@
+.maincontainer{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Noto Serif", serif;
+    background: #fff;
+}
+.box{
+width: 750;height: auto;border-radius: 10px;padding-bottom: 10px;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 7px;
+
+}
+.imagesize{
+    width:25px;
+    height:25px;
+}
+.titlediv{
+    display:flex;align-items:center;margin:8px 8px 4px 8px;
+}
+.divider{
+    height: 1px;width: 167px;border:1px solid #8e44ad;
+}
